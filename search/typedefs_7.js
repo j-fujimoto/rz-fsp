@@ -1,0 +1,10 @@
+var searchData=
+[
+  ['hyperbus_5fapi_5ft',['hyperbus_api_t',['../group___r_z_t___h_y_p_e_r_b_u_s___a_p_i.html#gaece351ef917940057f5a8564a524d75b',1,'RZT::hyperbus_api_t()'],['../group___r_z_n___h_y_p_e_r_b_u_s___a_p_i.html#gaece351ef917940057f5a8564a524d75b',1,'RZN::hyperbus_api_t()']]],
+  ['hyperbus_5fcfg_5ft',['hyperbus_cfg_t',['../group___r_z_t___h_y_p_e_r_b_u_s___a_p_i.html#gac30874fec53951a6532c6a820bc0fbad',1,'RZT::hyperbus_cfg_t()'],['../group___r_z_n___h_y_p_e_r_b_u_s___a_p_i.html#gac30874fec53951a6532c6a820bc0fbad',1,'RZN::hyperbus_cfg_t()']]],
+  ['hyperbus_5fcommand_5faddress_5ft',['hyperbus_command_address_t',['../group___r_z_t___h_y_p_e_r_b_u_s___a_p_i.html#ga673ca3124b93affcbf7b25c926f46eb5',1,'RZT::hyperbus_command_address_t()'],['../group___r_z_n___h_y_p_e_r_b_u_s___a_p_i.html#ga673ca3124b93affcbf7b25c926f46eb5',1,'RZN::hyperbus_command_address_t()']]],
+  ['hyperbus_5fctrl_5ft',['hyperbus_ctrl_t',['../group___r_z_t___h_y_p_e_r_b_u_s___a_p_i.html#ga76e479fdbeed623a1b44f162a6bad31e',1,'RZT::hyperbus_ctrl_t()'],['../group___r_z_n___h_y_p_e_r_b_u_s___a_p_i.html#ga76e479fdbeed623a1b44f162a6bad31e',1,'RZN::hyperbus_ctrl_t()']]],
+  ['hyperbus_5fdirect_5ftransfer_5ft',['hyperbus_direct_transfer_t',['../group___r_z_t___h_y_p_e_r_b_u_s___a_p_i.html#ga89d5635cb81c767af696dece3b10daa3',1,'RZT::hyperbus_direct_transfer_t()'],['../group___r_z_n___h_y_p_e_r_b_u_s___a_p_i.html#ga89d5635cb81c767af696dece3b10daa3',1,'RZN::hyperbus_direct_transfer_t()']]],
+  ['hyperbus_5finstance_5ft',['hyperbus_instance_t',['../group___r_z_t___h_y_p_e_r_b_u_s___a_p_i.html#ga95bafae53bec846119bd76205938b42c',1,'RZT::hyperbus_instance_t()'],['../group___r_z_n___h_y_p_e_r_b_u_s___a_p_i.html#ga95bafae53bec846119bd76205938b42c',1,'RZN::hyperbus_instance_t()']]],
+  ['hyperbus_5fstatus_5ft',['hyperbus_status_t',['../group___r_z_t___h_y_p_e_r_b_u_s___a_p_i.html#gad08cd75e24a21a8166c0704e1bd518f7',1,'RZT::hyperbus_status_t()'],['../group___r_z_n___h_y_p_e_r_b_u_s___a_p_i.html#gad08cd75e24a21a8166c0704e1bd518f7',1,'RZN::hyperbus_status_t()']]]
+];

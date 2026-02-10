@@ -1,0 +1,116 @@
+var group___r_z_n___t_i_m_e_r___a_p_i =
+[
+    [ "st_timer_callback_args", "group___r_z_n___t_i_m_e_r___a_p_i.html#struct_r_z_n_1_1st__timer__callback__args", [
+      [ "p_context", "group___r_z_n___t_i_m_e_r___a_p_i.html#aa207a6ef4d9f49f00f01a37810ac301d", null ],
+      [ "event", "group___r_z_n___t_i_m_e_r___a_p_i.html#afb20c97e2148bcf219ff4354a1eb2e7c", null ],
+      [ "capture", "group___r_z_n___t_i_m_e_r___a_p_i.html#af5a4514c58d6fe5b682e2fe4cce0b35f", null ]
+    ] ],
+    [ "st_timer_info", "group___r_z_n___t_i_m_e_r___a_p_i.html#struct_r_z_n_1_1st__timer__info", [
+      [ "count_direction", "group___r_z_n___t_i_m_e_r___a_p_i.html#a0dda031c7caba91d69b718eb608f68be", null ],
+      [ "clock_frequency", "group___r_z_n___t_i_m_e_r___a_p_i.html#aaebf493dcf600ad25162bffe2d012a61", null ],
+      [ "period_counts", "group___r_z_n___t_i_m_e_r___a_p_i.html#a9a52263346542f55b207e4767613f681", null ]
+    ] ],
+    [ "st_timer_status", "group___r_z_n___t_i_m_e_r___a_p_i.html#struct_r_z_n_1_1st__timer__status", [
+      [ "counter", "group___r_z_n___t_i_m_e_r___a_p_i.html#a51322ddb267b4729d6b5f2bb05d49fff", null ],
+      [ "state", "group___r_z_n___t_i_m_e_r___a_p_i.html#a0d06242c5dc21979c4bfb6a1b182707b", null ]
+    ] ],
+    [ "st_timer_cfg", "group___r_z_n___t_i_m_e_r___a_p_i.html#struct_r_z_n_1_1st__timer__cfg", [
+      [ "mode", "group___r_z_n___t_i_m_e_r___a_p_i.html#ac8d063c86c4a82190043668a0decc6a6", null ],
+      [ "period_counts", "group___r_z_n___t_i_m_e_r___a_p_i.html#a9a52263346542f55b207e4767613f681", null ],
+      [ "source_div", "group___r_z_n___t_i_m_e_r___a_p_i.html#aa181f947ee3144c94f8c9ea8931afd9b", null ],
+      [ "duty_cycle_counts", "group___r_z_n___t_i_m_e_r___a_p_i.html#a24e38b36b8e625b430dc7577363a3824", null ],
+      [ "channel", "group___r_z_n___t_i_m_e_r___a_p_i.html#a715f5cb061d11eb75981741eda4dafcd", null ],
+      [ "cycle_end_ipl", "group___r_z_n___t_i_m_e_r___a_p_i.html#a904ca3314e3016fb09763caf3b4cdd5f", null ],
+      [ "cycle_end_irq", "group___r_z_n___t_i_m_e_r___a_p_i.html#a9f9ea2298570504759ab7cf95f807bcd", null ],
+      [ "p_callback", "group___r_z_n___t_i_m_e_r___a_p_i.html#a4c6a370ea311ccadfc3c49b468875a2f", null ],
+      [ "p_context", "group___r_z_n___t_i_m_e_r___a_p_i.html#aa207a6ef4d9f49f00f01a37810ac301d", null ],
+      [ "p_extend", "group___r_z_n___t_i_m_e_r___a_p_i.html#ae177ce684886720c6bed92815d8d101d", null ]
+    ] ],
+    [ "st_timer_api", "group___r_z_n___t_i_m_e_r___a_p_i.html#struct_r_z_n_1_1st__timer__api", [
+      [ "open", "group___r_z_n___t_i_m_e_r___a_p_i.html#a19227554c430173b80559bd7e719b5e7", null ],
+      [ "start", "group___r_z_n___t_i_m_e_r___a_p_i.html#a6b274ecbfc0372d157136014ccbf96cc", null ],
+      [ "stop", "group___r_z_n___t_i_m_e_r___a_p_i.html#a92a717187c00993a912efaa511267782", null ],
+      [ "reset", "group___r_z_n___t_i_m_e_r___a_p_i.html#a3661edd4e1fffb1e82eacebcdc9f535e", null ],
+      [ "enable", "group___r_z_n___t_i_m_e_r___a_p_i.html#a2acde0317bdd241dcf52e5941f4ad42d", null ],
+      [ "disable", "group___r_z_n___t_i_m_e_r___a_p_i.html#af6d276c9c21e101a18112f31dd457117", null ],
+      [ "periodSet", "group___r_z_n___t_i_m_e_r___a_p_i.html#a385d71f8afc519184892ed4d0ff6274e", null ],
+      [ "dutyCycleSet", "group___r_z_n___t_i_m_e_r___a_p_i.html#a64e28899d739cb6056e45d6c4101e754", null ],
+      [ "compareMatchSet", "group___r_z_n___t_i_m_e_r___a_p_i.html#a80597964500da2286564afd9dc9cec67", null ],
+      [ "infoGet", "group___r_z_n___t_i_m_e_r___a_p_i.html#a38ea09df85aadc9dbad678b4e1812fd1", null ],
+      [ "statusGet", "group___r_z_n___t_i_m_e_r___a_p_i.html#aa7ab1116d65d83d3fcd6f4d26ec617c9", null ],
+      [ "callbackSet", "group___r_z_n___t_i_m_e_r___a_p_i.html#ac89d77814e8de1ec9d09944548f18bbd", null ],
+      [ "close", "group___r_z_n___t_i_m_e_r___a_p_i.html#a6ff346fd16b4d91e27518cc52ad43bff", null ]
+    ] ],
+    [ "st_timer_instance", "group___r_z_n___t_i_m_e_r___a_p_i.html#struct_r_z_n_1_1st__timer__instance", [
+      [ "p_ctrl", "group___r_z_n___t_i_m_e_r___a_p_i.html#a1964c82d6c40ffc9a36f511854e565dd", null ],
+      [ "p_cfg", "group___r_z_n___t_i_m_e_r___a_p_i.html#a2e9ccd497eeba526f542899464dffd19", null ],
+      [ "p_api", "group___r_z_n___t_i_m_e_r___a_p_i.html#aa56e746e3f1e0116049b0ddaf084ce68", null ]
+    ] ],
+    [ "timer_callback_args_t", "group___r_z_n___t_i_m_e_r___a_p_i.html#gaaa9540bd43c1cff91591fe35cf2320a6", null ],
+    [ "timer_ctrl_t", "group___r_z_n___t_i_m_e_r___a_p_i.html#ga2da99b474151cb687d5882ad21b09c2a", null ],
+    [ "timer_info_t", "group___r_z_n___t_i_m_e_r___a_p_i.html#gaf372937699a6b2055a52c7444aea71b4", null ],
+    [ "timer_status_t", "group___r_z_n___t_i_m_e_r___a_p_i.html#ga8160de0e701f5d6acebcaf9d2c86120f", null ],
+    [ "timer_cfg_t", "group___r_z_n___t_i_m_e_r___a_p_i.html#ga533e01999a10a35ea4798ac73e07fdf5", null ],
+    [ "timer_api_t", "group___r_z_n___t_i_m_e_r___a_p_i.html#gaaabc04271bb36bbc3d292e1400e1343f", null ],
+    [ "timer_instance_t", "group___r_z_n___t_i_m_e_r___a_p_i.html#gad07c1a7dd172584a84cceadfeeffba43", null ],
+    [ "timer_event_t", "group___r_z_n___t_i_m_e_r___a_p_i.html#gac3bee51f7c9078f794c5ac19522f91eb", [
+      [ "TIMER_EVENT_CYCLE_END", "group___r_z_n___t_i_m_e_r___a_p_i.html#ggac3bee51f7c9078f794c5ac19522f91ebae310bef0d640f06765c01b4b91a5b84c", null ],
+      [ "TIMER_EVENT_CREST", "group___r_z_n___t_i_m_e_r___a_p_i.html#ggac3bee51f7c9078f794c5ac19522f91eba73d4afde72c0b28a768c8e6d25c050f8", null ],
+      [ "TIMER_EVENT_CAPTURE_A", "group___r_z_n___t_i_m_e_r___a_p_i.html#ggac3bee51f7c9078f794c5ac19522f91eba4bc1252f63147f4a01f7b7ba88afac1d", null ],
+      [ "TIMER_EVENT_CAPTURE_B", "group___r_z_n___t_i_m_e_r___a_p_i.html#ggac3bee51f7c9078f794c5ac19522f91ebab7b635fbf34ede5a3e2f55b5a60ac21b", null ],
+      [ "TIMER_EVENT_TROUGH", "group___r_z_n___t_i_m_e_r___a_p_i.html#ggac3bee51f7c9078f794c5ac19522f91eba83cb2de8ac629fcd95525e94b94089f0", null ],
+      [ "TIMER_EVENT_COMPARE_A", "group___r_z_n___t_i_m_e_r___a_p_i.html#ggac3bee51f7c9078f794c5ac19522f91ebabc52a1efe80272e318bc5c62e327f33f", null ],
+      [ "TIMER_EVENT_COMPARE_B", "group___r_z_n___t_i_m_e_r___a_p_i.html#ggac3bee51f7c9078f794c5ac19522f91eba36d66ed55acda36d3d92b3a497f1d9f5", null ],
+      [ "TIMER_EVENT_COMPARE_C", "group___r_z_n___t_i_m_e_r___a_p_i.html#ggac3bee51f7c9078f794c5ac19522f91ebae970aeb3232263301c02f04c8f78ff94", null ],
+      [ "TIMER_EVENT_COMPARE_D", "group___r_z_n___t_i_m_e_r___a_p_i.html#ggac3bee51f7c9078f794c5ac19522f91ebaf1c67e74a1fc77c76088339cdf2b339d", null ],
+      [ "TIMER_EVENT_COMPARE_E", "group___r_z_n___t_i_m_e_r___a_p_i.html#ggac3bee51f7c9078f794c5ac19522f91eba2eb051c069316049ec2c6bd912088c54", null ],
+      [ "TIMER_EVENT_COMPARE_F", "group___r_z_n___t_i_m_e_r___a_p_i.html#ggac3bee51f7c9078f794c5ac19522f91ebaee9a4d8067049776bbfdfb55bcf30390", null ],
+      [ "TIMER_EVENT_DEAD_TIME", "group___r_z_n___t_i_m_e_r___a_p_i.html#ggac3bee51f7c9078f794c5ac19522f91eba83346d837d9c89b9b1bed8c9a0078660", null ]
+    ] ],
+    [ "timer_variant_t", "group___r_z_n___t_i_m_e_r___a_p_i.html#gaa3525eef2e1fa1bc8809b2d3aaf0de5d", [
+      [ "TIMER_VARIANT_32_BIT", "group___r_z_n___t_i_m_e_r___a_p_i.html#ggaa3525eef2e1fa1bc8809b2d3aaf0de5da7dddd2791567467dc7bcf74ca2fc2cbb", null ],
+      [ "TIMER_VARIANT_16_BIT", "group___r_z_n___t_i_m_e_r___a_p_i.html#ggaa3525eef2e1fa1bc8809b2d3aaf0de5dab2eba551f1a7140323af63a66a137b49", null ]
+    ] ],
+    [ "timer_compare_match_t", "group___r_z_n___t_i_m_e_r___a_p_i.html#gaf5f22f5e34fe6ea640fd6a1c7e864cd9", [
+      [ "TIMER_COMPARE_MATCH_A", "group___r_z_n___t_i_m_e_r___a_p_i.html#ggaf5f22f5e34fe6ea640fd6a1c7e864cd9aaaad342d8de564fe934da6046de43b1b", null ],
+      [ "TIMER_COMPARE_MATCH_B", "group___r_z_n___t_i_m_e_r___a_p_i.html#ggaf5f22f5e34fe6ea640fd6a1c7e864cd9af47948172a5aa055bed74ad8c1cdc11d", null ],
+      [ "TIMER_COMPARE_MATCH_C", "group___r_z_n___t_i_m_e_r___a_p_i.html#ggaf5f22f5e34fe6ea640fd6a1c7e864cd9a02dbd4bf976c9c94468ab16e225d0771", null ],
+      [ "TIMER_COMPARE_MATCH_D", "group___r_z_n___t_i_m_e_r___a_p_i.html#ggaf5f22f5e34fe6ea640fd6a1c7e864cd9acad66a928c0e2abdd09d6bfc8b0fc7a2", null ],
+      [ "TIMER_COMPARE_MATCH_E", "group___r_z_n___t_i_m_e_r___a_p_i.html#ggaf5f22f5e34fe6ea640fd6a1c7e864cd9a216c3a1e617bf0fb2a85b573915ab7d1", null ],
+      [ "TIMER_COMPARE_MATCH_F", "group___r_z_n___t_i_m_e_r___a_p_i.html#ggaf5f22f5e34fe6ea640fd6a1c7e864cd9a27a5f4110d793a6fdb27f3026400f4ce", null ],
+      [ "TIMER_COMPARE_MATCH_G", "group___r_z_n___t_i_m_e_r___a_p_i.html#ggaf5f22f5e34fe6ea640fd6a1c7e864cd9a2768f929cf63f14c2b0d88f717b58378", null ],
+      [ "TIMER_COMPARE_MATCH_H", "group___r_z_n___t_i_m_e_r___a_p_i.html#ggaf5f22f5e34fe6ea640fd6a1c7e864cd9abc8610b60c8de3ac1609f68d1f06a03c", null ]
+    ] ],
+    [ "timer_state_t", "group___r_z_n___t_i_m_e_r___a_p_i.html#ga1360292eee5d5a5288646fd1eb37c83e", [
+      [ "TIMER_STATE_STOPPED", "group___r_z_n___t_i_m_e_r___a_p_i.html#gga1360292eee5d5a5288646fd1eb37c83ea92e859c83369128798902fd7a86a3320", null ],
+      [ "TIMER_STATE_COUNTING", "group___r_z_n___t_i_m_e_r___a_p_i.html#gga1360292eee5d5a5288646fd1eb37c83eaba4825c92c8291b64e827943330007b7", null ],
+      [ "TIMER_STATE_UNKNOWN", "group___r_z_n___t_i_m_e_r___a_p_i.html#gga1360292eee5d5a5288646fd1eb37c83eae82995b4262422f87ad9b026ffce72b2", null ]
+    ] ],
+    [ "timer_mode_t", "group___r_z_n___t_i_m_e_r___a_p_i.html#ga6d4cd64aed5c0009ac26803efc9c13b2", [
+      [ "TIMER_MODE_PERIODIC", "group___r_z_n___t_i_m_e_r___a_p_i.html#gga6d4cd64aed5c0009ac26803efc9c13b2a78838cf8d728f8c64bb8012d522d1e2e", null ],
+      [ "TIMER_MODE_ONE_SHOT", "group___r_z_n___t_i_m_e_r___a_p_i.html#gga6d4cd64aed5c0009ac26803efc9c13b2a140f07675d67258a7ca9a95a9a793e3a", null ],
+      [ "TIMER_MODE_PWM", "group___r_z_n___t_i_m_e_r___a_p_i.html#gga6d4cd64aed5c0009ac26803efc9c13b2aca44e952a6930f39ac05393522392eac", null ],
+      [ "TIMER_MODE_ONE_SHOT_PULSE", "group___r_z_n___t_i_m_e_r___a_p_i.html#gga6d4cd64aed5c0009ac26803efc9c13b2afe99f13968cabc479896dfd0bc67fb6a", null ],
+      [ "TIMER_MODE_TRIANGLE_WAVE_SYMMETRIC_PWM", "group___r_z_n___t_i_m_e_r___a_p_i.html#gga6d4cd64aed5c0009ac26803efc9c13b2a6a3c462f9e9cc1b26ab68f38efd79b14", null ],
+      [ "TIMER_MODE_TRIANGLE_WAVE_ASYMMETRIC_PWM", "group___r_z_n___t_i_m_e_r___a_p_i.html#gga6d4cd64aed5c0009ac26803efc9c13b2a204001ad413e9ad0db08a66d004a555a", null ],
+      [ "TIMER_MODE_TRIANGLE_WAVE_ASYMMETRIC_PWM_MODE3", "group___r_z_n___t_i_m_e_r___a_p_i.html#gga6d4cd64aed5c0009ac26803efc9c13b2aa2eb9fa5372856039d5d53dfbbbe6040", null ]
+    ] ],
+    [ "timer_direction_t", "group___r_z_n___t_i_m_e_r___a_p_i.html#ga8d600bb7885c5490bb7e8f989aa2ff83", [
+      [ "TIMER_DIRECTION_DOWN", "group___r_z_n___t_i_m_e_r___a_p_i.html#gga8d600bb7885c5490bb7e8f989aa2ff83a6a5c25392297a9e6adcc2a31d210e654", null ],
+      [ "TIMER_DIRECTION_UP", "group___r_z_n___t_i_m_e_r___a_p_i.html#gga8d600bb7885c5490bb7e8f989aa2ff83aa6e92d4dfd3483ec2ca281fae716c3db", null ]
+    ] ],
+    [ "timer_source_div_t", "group___r_z_n___t_i_m_e_r___a_p_i.html#ga820b425b44d7b551afd1797ecca7a5ad", [
+      [ "TIMER_SOURCE_DIV_1", "group___r_z_n___t_i_m_e_r___a_p_i.html#gga820b425b44d7b551afd1797ecca7a5ada387f7122153dd7d860762a6f73485fb8", null ],
+      [ "TIMER_SOURCE_DIV_2", "group___r_z_n___t_i_m_e_r___a_p_i.html#gga820b425b44d7b551afd1797ecca7a5adafa4194764952e26c833bdaa26587f245", null ],
+      [ "TIMER_SOURCE_DIV_4", "group___r_z_n___t_i_m_e_r___a_p_i.html#gga820b425b44d7b551afd1797ecca7a5ada6cf9f5fb4095fd15027e6d06a811a3f5", null ],
+      [ "TIMER_SOURCE_DIV_8", "group___r_z_n___t_i_m_e_r___a_p_i.html#gga820b425b44d7b551afd1797ecca7a5adaa2da1d2d669ae1f3baf715e96a803be3", null ],
+      [ "TIMER_SOURCE_DIV_16", "group___r_z_n___t_i_m_e_r___a_p_i.html#gga820b425b44d7b551afd1797ecca7a5adae36be19b8ae1b3b3918e39c738e62c82", null ],
+      [ "TIMER_SOURCE_DIV_32", "group___r_z_n___t_i_m_e_r___a_p_i.html#gga820b425b44d7b551afd1797ecca7a5adacccb03dab14c93d036cdff662b1686a1", null ],
+      [ "TIMER_SOURCE_DIV_64", "group___r_z_n___t_i_m_e_r___a_p_i.html#gga820b425b44d7b551afd1797ecca7a5ada1cc7525fed9c5374c3a530e17453e670", null ],
+      [ "TIMER_SOURCE_DIV_128", "group___r_z_n___t_i_m_e_r___a_p_i.html#gga820b425b44d7b551afd1797ecca7a5ada8828520a3958955a4e2835785787c801", null ],
+      [ "TIMER_SOURCE_DIV_256", "group___r_z_n___t_i_m_e_r___a_p_i.html#gga820b425b44d7b551afd1797ecca7a5ada6680e947eb6455f9d0ee007645ea707d", null ],
+      [ "TIMER_SOURCE_DIV_512", "group___r_z_n___t_i_m_e_r___a_p_i.html#gga820b425b44d7b551afd1797ecca7a5ada2bcc6bb5346907da7e45b74449588132", null ],
+      [ "TIMER_SOURCE_DIV_1024", "group___r_z_n___t_i_m_e_r___a_p_i.html#gga820b425b44d7b551afd1797ecca7a5adaee99148dc7c32f0764c7cb3b3e45ca30", null ],
+      [ "TIMER_SOURCE_DIV_8192", "group___r_z_n___t_i_m_e_r___a_p_i.html#gga820b425b44d7b551afd1797ecca7a5ada7ab4ccede194937611a0d689c8ab0624", null ]
+    ] ]
+];

@@ -1,0 +1,176 @@
+var group___r_z_a___a_d_c___a_p_i =
+[
+    [ "st_adc_status", "group___r_z_a___a_d_c___a_p_i.html#struct_r_z_a_1_1st__adc__status", [
+      [ "state", "group___r_z_a___a_d_c___a_p_i.html#a46002c1a20149435370063ee51b1dc47", null ]
+    ] ],
+    [ "st_adc_callback_args", "group___r_z_a___a_d_c___a_p_i.html#struct_r_z_a_1_1st__adc__callback__args", [
+      [ "unit", "group___r_z_a___a_d_c___a_p_i.html#a1e8ce93d382bc1a38b1d49f70acf0d24", null ],
+      [ "event", "group___r_z_a___a_d_c___a_p_i.html#a4bf76ad841f73c5b4cfa103450c5fbbb", null ],
+      [ "p_context", "group___r_z_a___a_d_c___a_p_i.html#aa207a6ef4d9f49f00f01a37810ac301d", null ],
+      [ "channel", "group___r_z_a___a_d_c___a_p_i.html#a9f52e116d2aa4a5dc186c01ae435241b", null ],
+      [ "channel_mask", "group___r_z_a___a_d_c___a_p_i.html#ac9392075185366b367f5a3b26392b725", null ],
+      [ "group_mask", "group___r_z_a___a_d_c___a_p_i.html#a7152ad4fe73430658ce7455339b26f2b", null ]
+    ] ],
+    [ "st_adc_info", "group___r_z_a___a_d_c___a_p_i.html#struct_r_z_a_1_1st__adc__info", [
+      [ "p_address", "group___r_z_a___a_d_c___a_p_i.html#a63d481a76633e03af3e605d803587831", null ],
+      [ "length", "group___r_z_a___a_d_c___a_p_i.html#aebb70c2aab3407a9f05334c47131a43b", null ],
+      [ "transfer_size", "group___r_z_a___a_d_c___a_p_i.html#a5192605d594fd4b50829f5733bfee77a", null ],
+      [ "elc_peripheral", "group___r_z_a___a_d_c___a_p_i.html#a45644681ea39f0f114028095297eee22", null ],
+      [ "elc_event", "group___r_z_a___a_d_c___a_p_i.html#ace034a98ba65b6c6ee09c23475c9627c", null ],
+      [ "calibration_data", "group___r_z_a___a_d_c___a_p_i.html#afb8cbf685daa2d11b417bc0b7e7b19d1", null ],
+      [ "room_calibration_data", "group___r_z_a___a_d_c___a_p_i.html#a1ad984649f1e91357e30046e15f30561", null ],
+      [ "low_calibration_data", "group___r_z_a___a_d_c___a_p_i.html#a784a042c203e6b1ca16647b377e6fca8", null ],
+      [ "slope_microvolts", "group___r_z_a___a_d_c___a_p_i.html#af04e8684628a98a771f202f4da70bac2", null ],
+      [ "p_address", "group___r_z_a___a_d_c___a_p_i.html#aeb04db97a86a85ffb16de37060a3ceca", null ],
+      [ "calibration_ongoing", "group___r_z_a___a_d_c___a_p_i.html#a28d584275d3f12b8b6f5fa7301833389", null ]
+    ] ],
+    [ "st_adc_cfg", "group___r_z_a___a_d_c___a_p_i.html#struct_r_z_a_1_1st__adc__cfg", [
+      [ "unit", "group___r_z_a___a_d_c___a_p_i.html#a1e8ce93d382bc1a38b1d49f70acf0d24", null ],
+      [ "mode", "group___r_z_a___a_d_c___a_p_i.html#a56cce61871ae1c1c5317d84d747f87c1", null ],
+      [ "resolution", "group___r_z_a___a_d_c___a_p_i.html#a8e74768ed0e26ece9d21c79287b899f7", null ],
+      [ "alignment", "group___r_z_a___a_d_c___a_p_i.html#aa79657c5322f235a20b4fc2296dab693", null ],
+      [ "trigger", "group___r_z_a___a_d_c___a_p_i.html#a3607bab546ae56200ceef8fbbd8f7c76", null ],
+      [ "scan_end_irq", "group___r_z_a___a_d_c___a_p_i.html#a33c127f147e1e260b6a47cdb5576888e", null ],
+      [ "scan_end_b_irq", "group___r_z_a___a_d_c___a_p_i.html#aad4bbf40dab17d0e36a13e848356e3e1", null ],
+      [ "scan_end_c_irq", "group___r_z_a___a_d_c___a_p_i.html#a87051d79edc2a21b033b964afca69f70", null ],
+      [ "scan_end_ipl", "group___r_z_a___a_d_c___a_p_i.html#a72047ea3a9f981108bc7788a30bcacd3", null ],
+      [ "scan_end_b_ipl", "group___r_z_a___a_d_c___a_p_i.html#a6b50bbc3de08329b7c36b79a41dc7f63", null ],
+      [ "scan_end_c_ipl", "group___r_z_a___a_d_c___a_p_i.html#a07c7ed97afc02459d5bb7ee23b5e81c6", null ],
+      [ "p_callback", "group___r_z_a___a_d_c___a_p_i.html#a12a1ecad787e46d3f89663596a030085", null ],
+      [ "p_context", "group___r_z_a___a_d_c___a_p_i.html#aa207a6ef4d9f49f00f01a37810ac301d", null ],
+      [ "p_extend", "group___r_z_a___a_d_c___a_p_i.html#ae177ce684886720c6bed92815d8d101d", null ]
+    ] ],
+    [ "st_adc_api", "group___r_z_a___a_d_c___a_p_i.html#struct_r_z_a_1_1st__adc__api", [
+      [ "open", "group___r_z_a___a_d_c___a_p_i.html#a1ea06b3173109db9881a358f0773d6a9", null ],
+      [ "scanCfg", "group___r_z_a___a_d_c___a_p_i.html#aa836bd8b108b2a20bf6cbcfc4de3a6be", null ],
+      [ "scanStart", "group___r_z_a___a_d_c___a_p_i.html#a5ae3c7744d4ef68f90d29a3f2f60a8cb", null ],
+      [ "scanGroupStart", "group___r_z_a___a_d_c___a_p_i.html#abae39bbf1148232a1dfe5660fb8f0458", null ],
+      [ "scanStop", "group___r_z_a___a_d_c___a_p_i.html#ac063b315d44c05234f3022299f77724c", null ],
+      [ "scanStatusGet", "group___r_z_a___a_d_c___a_p_i.html#a813d3ca9a3a6de3916f5ff274904337d", null ],
+      [ "read", "group___r_z_a___a_d_c___a_p_i.html#a959d44e58c81c4c1dee0306e430c6ebb", null ],
+      [ "read32", "group___r_z_a___a_d_c___a_p_i.html#aa856bbe6692662bc51b51c60928a8353", null ],
+      [ "calibrate", "group___r_z_a___a_d_c___a_p_i.html#a82503b91633875acc8341aec685baeec", null ],
+      [ "offsetSet", "group___r_z_a___a_d_c___a_p_i.html#a703e376d7101d0a073cb53d48ca255bd", null ],
+      [ "callbackSet", "group___r_z_a___a_d_c___a_p_i.html#a3593796f6e38547ac765a452f65edd30", null ],
+      [ "close", "group___r_z_a___a_d_c___a_p_i.html#a6efa4eaa14a79e21784a7b65742148c3", null ],
+      [ "infoGet", "group___r_z_a___a_d_c___a_p_i.html#ae20b944ea84dea45b65bb5d688e03f46", null ]
+    ] ],
+    [ "st_adc_instance", "group___r_z_a___a_d_c___a_p_i.html#struct_r_z_a_1_1st__adc__instance", [
+      [ "p_ctrl", "group___r_z_a___a_d_c___a_p_i.html#a7b0a52aa91144f316a9f4e052721879a", null ],
+      [ "p_cfg", "group___r_z_a___a_d_c___a_p_i.html#abf7decfc8017265439e9bf982347d1a2", null ],
+      [ "p_channel_cfg", "group___r_z_a___a_d_c___a_p_i.html#a91cf42d648686f23a3ccf7641d033121", null ],
+      [ "p_api", "group___r_z_a___a_d_c___a_p_i.html#a55fdb2a924b791975202605a31c37aa2", null ]
+    ] ],
+    [ "adc_status_t", "group___r_z_a___a_d_c___a_p_i.html#gaa931270b3fa32bd848d3cec81fbd641b", null ],
+    [ "adc_callback_args_t", "group___r_z_a___a_d_c___a_p_i.html#ga39561a9e55630de1657621cfe0818378", null ],
+    [ "adc_info_t", "group___r_z_a___a_d_c___a_p_i.html#ga4906fc872aa616ed94f55ad129cad194", null ],
+    [ "adc_cfg_t", "group___r_z_a___a_d_c___a_p_i.html#ga68abda5b9c6f4ddc322f912e358c693d", null ],
+    [ "adc_ctrl_t", "group___r_z_a___a_d_c___a_p_i.html#gaff9488cd90102a90e5c5cbd45394d426", null ],
+    [ "adc_api_t", "group___r_z_a___a_d_c___a_p_i.html#gae9d85e780edeed1d2580d93a56aa1aa4", null ],
+    [ "adc_instance_t", "group___r_z_a___a_d_c___a_p_i.html#ga35df3d3a81f3396524da0d938fbaa1a9", null ],
+    [ "adc_mode_t", "group___r_z_a___a_d_c___a_p_i.html#ga760a8dafdcddcfadfea0aa3e01159164", [
+      [ "ADC_MODE_SINGLE_SCAN", "group___r_z_a___a_d_c___a_p_i.html#gga760a8dafdcddcfadfea0aa3e01159164a1ac4130959b24d8426fd8f59326a5630", null ],
+      [ "ADC_MODE_GROUP_SCAN", "group___r_z_a___a_d_c___a_p_i.html#gga760a8dafdcddcfadfea0aa3e01159164a39fdd1c003301890e59b5188a6cc6658", null ],
+      [ "ADC_MODE_CONTINUOUS_SCAN", "group___r_z_a___a_d_c___a_p_i.html#gga760a8dafdcddcfadfea0aa3e01159164adb8344d57ee438ee90c65b79ff4f3e12", null ]
+    ] ],
+    [ "adc_resolution_t", "group___r_z_a___a_d_c___a_p_i.html#gaf88bfcbfc4a19c82f8bb423218d13cda", [
+      [ "ADC_RESOLUTION_12_BIT", "group___r_z_a___a_d_c___a_p_i.html#ggaf88bfcbfc4a19c82f8bb423218d13cdaab35c4dcc6cda85146a9ffd339c5de1c4", null ],
+      [ "ADC_RESOLUTION_10_BIT", "group___r_z_a___a_d_c___a_p_i.html#ggaf88bfcbfc4a19c82f8bb423218d13cdaa24283bc621bcaa68a73c8eab142030b8", null ],
+      [ "ADC_RESOLUTION_8_BIT", "group___r_z_a___a_d_c___a_p_i.html#ggaf88bfcbfc4a19c82f8bb423218d13cdaa8ebd681650d751af22a7849be9ab8bc1", null ],
+      [ "ADC_RESOLUTION_14_BIT", "group___r_z_a___a_d_c___a_p_i.html#ggaf88bfcbfc4a19c82f8bb423218d13cdaa814e543d0745170516a09fb6de621ca8", null ],
+      [ "ADC_RESOLUTION_16_BIT", "group___r_z_a___a_d_c___a_p_i.html#ggaf88bfcbfc4a19c82f8bb423218d13cdaac28428ad60debb0ae5bfd0540c90f33c", null ],
+      [ "ADC_RESOLUTION_24_BIT", "group___r_z_a___a_d_c___a_p_i.html#ggaf88bfcbfc4a19c82f8bb423218d13cdaaebcd8848d34004d66f084b9f80a07d24", null ]
+    ] ],
+    [ "adc_alignment_t", "group___r_z_a___a_d_c___a_p_i.html#gaab0104c9c876400deb5772a77c1c5d76", [
+      [ "ADC_ALIGNMENT_RIGHT", "group___r_z_a___a_d_c___a_p_i.html#ggaab0104c9c876400deb5772a77c1c5d76ae70affd23c02c0bc52dc0fe55c9c4879", null ],
+      [ "ADC_ALIGNMENT_LEFT", "group___r_z_a___a_d_c___a_p_i.html#ggaab0104c9c876400deb5772a77c1c5d76a7c98a604f4c957ba7151784fa3cd61a7", null ]
+    ] ],
+    [ "adc_trigger_t", "group___r_z_a___a_d_c___a_p_i.html#ga1ac380ffe2ebef256338616747d330e3", [
+      [ "ADC_TRIGGER_SOFTWARE", "group___r_z_a___a_d_c___a_p_i.html#gga1ac380ffe2ebef256338616747d330e3a627b041b2095033f96a9a97dc474d26a", null ],
+      [ "ADC_TRIGGER_SYNC_ELC", "group___r_z_a___a_d_c___a_p_i.html#gga1ac380ffe2ebef256338616747d330e3a2a4fc2c9166f5013e45f534136a15990", null ],
+      [ "ADC_TRIGGER_ASYNC_EXTERNAL", "group___r_z_a___a_d_c___a_p_i.html#gga1ac380ffe2ebef256338616747d330e3a63f9a00e836c78964fa67c434a6718bc", null ]
+    ] ],
+    [ "adc_event_t", "group___r_z_a___a_d_c___a_p_i.html#gae2177d6e5bf43e3749cc60f835456847", [
+      [ "ADC_EVENT_SCAN_COMPLETE", "group___r_z_a___a_d_c___a_p_i.html#ggae2177d6e5bf43e3749cc60f835456847a32297df4b82ea56a5536bb03fe907e64", null ],
+      [ "ADC_EVENT_SCAN_COMPLETE_GROUP_B", "group___r_z_a___a_d_c___a_p_i.html#ggae2177d6e5bf43e3749cc60f835456847a8f67ee666423bc068d379ae85da36252", null ],
+      [ "ADC_EVENT_SCAN_COMPLETE_GROUP_C", "group___r_z_a___a_d_c___a_p_i.html#ggae2177d6e5bf43e3749cc60f835456847ab7538351ad7e4ed3d866212b0e3b3099", null ],
+      [ "ADC_EVENT_CALIBRATION_COMPLETE", "group___r_z_a___a_d_c___a_p_i.html#ggae2177d6e5bf43e3749cc60f835456847ae8d9c9c99ceb10f095bb4449fd2706b1", null ],
+      [ "ADC_EVENT_CONVERSION_COMPLETE", "group___r_z_a___a_d_c___a_p_i.html#ggae2177d6e5bf43e3749cc60f835456847aa3091bf90a88f96ed9b5a6ab499680bb", null ],
+      [ "ADC_EVENT_CALIBRATION_REQUEST", "group___r_z_a___a_d_c___a_p_i.html#ggae2177d6e5bf43e3749cc60f835456847ae30b20571a57953009f49eb5cbc2866a", null ],
+      [ "ADC_EVENT_CONVERSION_ERROR", "group___r_z_a___a_d_c___a_p_i.html#ggae2177d6e5bf43e3749cc60f835456847a4d62358854590ae9bed21fc8c8c96e09", null ],
+      [ "ADC_EVENT_OVERFLOW", "group___r_z_a___a_d_c___a_p_i.html#ggae2177d6e5bf43e3749cc60f835456847a214f2bd1b932acbaacba970b138f23d2", null ],
+      [ "ADC_EVENT_LIMIT_CLIP", "group___r_z_a___a_d_c___a_p_i.html#ggae2177d6e5bf43e3749cc60f835456847ac42d84c9087c3228125a5a2ae90f958f", null ],
+      [ "ADC_EVENT_FIFO_READ_REQUEST", "group___r_z_a___a_d_c___a_p_i.html#ggae2177d6e5bf43e3749cc60f835456847a227823940dfc7793973e6716ec17742e", null ],
+      [ "ADC_EVENT_FIFO_OVERFLOW", "group___r_z_a___a_d_c___a_p_i.html#ggae2177d6e5bf43e3749cc60f835456847a0df21824c256f4cb9689cb1d6a3dd91a", null ],
+      [ "ADC_EVENT_WINDOW_COMPARE_A", "group___r_z_a___a_d_c___a_p_i.html#ggae2177d6e5bf43e3749cc60f835456847a0194955f4f59f8d6952adc058539632b", null ],
+      [ "ADC_EVENT_WINDOW_COMPARE_B", "group___r_z_a___a_d_c___a_p_i.html#ggae2177d6e5bf43e3749cc60f835456847ab32572630797968579adeed03f19bcd3", null ],
+      [ "ADC_EVENT_ZERO_CROSS_DETECTION", "group___r_z_a___a_d_c___a_p_i.html#ggae2177d6e5bf43e3749cc60f835456847a7cfc303adbef8d07936d89275852ded3", null ],
+      [ "ADC_EVENT_CAPTURE_A", "group___r_z_a___a_d_c___a_p_i.html#ggae2177d6e5bf43e3749cc60f835456847a745be33396b1b53bb5292cfc29aaf286", null ],
+      [ "ADC_EVENT_CAPTURE_B", "group___r_z_a___a_d_c___a_p_i.html#ggae2177d6e5bf43e3749cc60f835456847a261363a2befcc3e6b25736d94cd5578f", null ]
+    ] ],
+    [ "adc_channel_t", "group___r_z_a___a_d_c___a_p_i.html#gaafc4060027875f8fe46242b0656d7814", [
+      [ "ADC_CHANNEL_0", "group___r_z_a___a_d_c___a_p_i.html#ggaafc4060027875f8fe46242b0656d7814a69dddf5b6edfe54ac25b653d8f62d104", null ],
+      [ "ADC_CHANNEL_1", "group___r_z_a___a_d_c___a_p_i.html#ggaafc4060027875f8fe46242b0656d7814a203b48944d019f4fda969a6fc2a9e492", null ],
+      [ "ADC_CHANNEL_2", "group___r_z_a___a_d_c___a_p_i.html#ggaafc4060027875f8fe46242b0656d7814ab5ff3c915ec02ae6ac3980a1312a4815", null ],
+      [ "ADC_CHANNEL_3", "group___r_z_a___a_d_c___a_p_i.html#ggaafc4060027875f8fe46242b0656d7814a6ca054f67bee5197eec92a0379cffb6e", null ],
+      [ "ADC_CHANNEL_4", "group___r_z_a___a_d_c___a_p_i.html#ggaafc4060027875f8fe46242b0656d7814a358c6f5e7243a7ed09640253d83d2131", null ],
+      [ "ADC_CHANNEL_5", "group___r_z_a___a_d_c___a_p_i.html#ggaafc4060027875f8fe46242b0656d7814add27743e52a0719102130818d31d545a", null ],
+      [ "ADC_CHANNEL_6", "group___r_z_a___a_d_c___a_p_i.html#ggaafc4060027875f8fe46242b0656d7814acf3be71bfeb9d342e6d845db91782b79", null ],
+      [ "ADC_CHANNEL_7", "group___r_z_a___a_d_c___a_p_i.html#ggaafc4060027875f8fe46242b0656d7814ad6ef86ca1b448f220905d771f258586a", null ],
+      [ "ADC_CHANNEL_8", "group___r_z_a___a_d_c___a_p_i.html#ggaafc4060027875f8fe46242b0656d7814a2875a590dc7e8502581ff68a075ce019", null ],
+      [ "ADC_CHANNEL_9", "group___r_z_a___a_d_c___a_p_i.html#ggaafc4060027875f8fe46242b0656d7814a0e198353a76bf512e4dcc8224710d6b0", null ],
+      [ "ADC_CHANNEL_10", "group___r_z_a___a_d_c___a_p_i.html#ggaafc4060027875f8fe46242b0656d7814a9db3195dade30ed8b254187c22616898", null ],
+      [ "ADC_CHANNEL_11", "group___r_z_a___a_d_c___a_p_i.html#ggaafc4060027875f8fe46242b0656d7814af6193eda0e4807c9d560aac13e302093", null ],
+      [ "ADC_CHANNEL_12", "group___r_z_a___a_d_c___a_p_i.html#ggaafc4060027875f8fe46242b0656d7814a42838efffa3e21e6b970eee65de86e40", null ],
+      [ "ADC_CHANNEL_13", "group___r_z_a___a_d_c___a_p_i.html#ggaafc4060027875f8fe46242b0656d7814aa2718519e5964f136de3e5234e36264c", null ],
+      [ "ADC_CHANNEL_14", "group___r_z_a___a_d_c___a_p_i.html#ggaafc4060027875f8fe46242b0656d7814a7f3900d4031a3f01889fbe4179d8cade", null ],
+      [ "ADC_CHANNEL_15", "group___r_z_a___a_d_c___a_p_i.html#ggaafc4060027875f8fe46242b0656d7814afa75046e6f6f23ed8e6573c7bc8563d2", null ],
+      [ "ADC_CHANNEL_16", "group___r_z_a___a_d_c___a_p_i.html#ggaafc4060027875f8fe46242b0656d7814a61914b17568b94ef0651ee10e79e6892", null ],
+      [ "ADC_CHANNEL_17", "group___r_z_a___a_d_c___a_p_i.html#ggaafc4060027875f8fe46242b0656d7814a22aa8198d9a4012a012ddd838adf256c", null ],
+      [ "ADC_CHANNEL_18", "group___r_z_a___a_d_c___a_p_i.html#ggaafc4060027875f8fe46242b0656d7814ae47fe79b66fda5fcb9f02d6a648c8dc9", null ],
+      [ "ADC_CHANNEL_19", "group___r_z_a___a_d_c___a_p_i.html#ggaafc4060027875f8fe46242b0656d7814a514ca4fdb7e9862d3d9ebe1d4e926349", null ],
+      [ "ADC_CHANNEL_20", "group___r_z_a___a_d_c___a_p_i.html#ggaafc4060027875f8fe46242b0656d7814afdcbeb5840bd281a4a2ec3f1f64ed52b", null ],
+      [ "ADC_CHANNEL_21", "group___r_z_a___a_d_c___a_p_i.html#ggaafc4060027875f8fe46242b0656d7814afaf1207b06cd7dc48c7f10ed6c95fb4a", null ],
+      [ "ADC_CHANNEL_22", "group___r_z_a___a_d_c___a_p_i.html#ggaafc4060027875f8fe46242b0656d7814aa5b37816645da11ff633a7e2d539da12", null ],
+      [ "ADC_CHANNEL_23", "group___r_z_a___a_d_c___a_p_i.html#ggaafc4060027875f8fe46242b0656d7814a9009b78e30e87985cbfb40296a0bab16", null ],
+      [ "ADC_CHANNEL_24", "group___r_z_a___a_d_c___a_p_i.html#ggaafc4060027875f8fe46242b0656d7814a7ae985a21367ea6d7488517948fc625d", null ],
+      [ "ADC_CHANNEL_25", "group___r_z_a___a_d_c___a_p_i.html#ggaafc4060027875f8fe46242b0656d7814a31855ff8fefcff144e9dc4911466ce52", null ],
+      [ "ADC_CHANNEL_26", "group___r_z_a___a_d_c___a_p_i.html#ggaafc4060027875f8fe46242b0656d7814aa9c18e09bdb5cdf44c8c89ecdd7770d3", null ],
+      [ "ADC_CHANNEL_27", "group___r_z_a___a_d_c___a_p_i.html#ggaafc4060027875f8fe46242b0656d7814ad002942933ed78124a50b3276f9d88cc", null ],
+      [ "ADC_CHANNEL_28", "group___r_z_a___a_d_c___a_p_i.html#ggaafc4060027875f8fe46242b0656d7814a558a69bc271b849d3c3a2cca05ebbba0", null ],
+      [ "ADC_CHANNEL_DUPLEX_A", "group___r_z_a___a_d_c___a_p_i.html#ggaafc4060027875f8fe46242b0656d7814aadc3763b403f4b9ab667602137a9de57", null ],
+      [ "ADC_CHANNEL_DUPLEX_B", "group___r_z_a___a_d_c___a_p_i.html#ggaafc4060027875f8fe46242b0656d7814aa66d57680818caebf7be4d68f8c505be", null ],
+      [ "ADC_CHANNEL_DUPLEX", "group___r_z_a___a_d_c___a_p_i.html#ggaafc4060027875f8fe46242b0656d7814a2602b0a06ce1ce485d0812de6f6f4091", null ],
+      [ "ADC_CHANNEL_TEMPERATURE", "group___r_z_a___a_d_c___a_p_i.html#ggaafc4060027875f8fe46242b0656d7814aff4cf0b5a9bfd1fc634f6b097e34fe73", null ],
+      [ "ADC_CHANNEL_VOLT", "group___r_z_a___a_d_c___a_p_i.html#ggaafc4060027875f8fe46242b0656d7814a511e70765f3a63d0dea47ea585329641", null ]
+    ] ],
+    [ "adc_group_id_t", "group___r_z_a___a_d_c___a_p_i.html#ga625267e574e3f26d9d55918652e91176", [
+      [ "ADC_GROUP_ID_0", "group___r_z_a___a_d_c___a_p_i.html#gga625267e574e3f26d9d55918652e91176af4886d3826fb26d4bbdfaeb2195a5ddc", null ],
+      [ "ADC_GROUP_ID_1", "group___r_z_a___a_d_c___a_p_i.html#gga625267e574e3f26d9d55918652e91176a5affde6af0ba379220ade2c4ca8a027e", null ],
+      [ "ADC_GROUP_ID_2", "group___r_z_a___a_d_c___a_p_i.html#gga625267e574e3f26d9d55918652e91176a3bbc61292808df4caf5c0991e7b9f73c", null ],
+      [ "ADC_GROUP_ID_3", "group___r_z_a___a_d_c___a_p_i.html#gga625267e574e3f26d9d55918652e91176a10bc5348770837fad29ae361a75ede8e", null ],
+      [ "ADC_GROUP_ID_4", "group___r_z_a___a_d_c___a_p_i.html#gga625267e574e3f26d9d55918652e91176a0dc20198ed1fcd90b6b5cee6da08677f", null ],
+      [ "ADC_GROUP_ID_5", "group___r_z_a___a_d_c___a_p_i.html#gga625267e574e3f26d9d55918652e91176a4ce5371decbc45bfe70580f4d8717e39", null ],
+      [ "ADC_GROUP_ID_6", "group___r_z_a___a_d_c___a_p_i.html#gga625267e574e3f26d9d55918652e91176acc7f6d39b3a21eb846e58e1a8ce4142d", null ],
+      [ "ADC_GROUP_ID_7", "group___r_z_a___a_d_c___a_p_i.html#gga625267e574e3f26d9d55918652e91176a21f524469d82b63154be5f2f1f9dd95d", null ],
+      [ "ADC_GROUP_ID_8", "group___r_z_a___a_d_c___a_p_i.html#gga625267e574e3f26d9d55918652e91176a095b0310fe37230c34f3d1b4d48d4e42", null ]
+    ] ],
+    [ "adc_group_mask_t", "group___r_z_a___a_d_c___a_p_i.html#gaee17c30275c1c9376cc485a62ea121eb", [
+      [ "ADC_GROUP_MASK_NONE", "group___r_z_a___a_d_c___a_p_i.html#ggaee17c30275c1c9376cc485a62ea121eba6cc9000330017d217de6ca0e3eb70af5", null ],
+      [ "ADC_GROUP_MASK_0", "group___r_z_a___a_d_c___a_p_i.html#ggaee17c30275c1c9376cc485a62ea121ebaeedbedf9fc1fc6055524220d6e0af60d", null ],
+      [ "ADC_GROUP_MASK_1", "group___r_z_a___a_d_c___a_p_i.html#ggaee17c30275c1c9376cc485a62ea121ebaf727cf72c6c097e87f3e02209f1c2f1f", null ],
+      [ "ADC_GROUP_MASK_2", "group___r_z_a___a_d_c___a_p_i.html#ggaee17c30275c1c9376cc485a62ea121eba434af3ad0c8079644a51035acd8fd835", null ],
+      [ "ADC_GROUP_MASK_3", "group___r_z_a___a_d_c___a_p_i.html#ggaee17c30275c1c9376cc485a62ea121eba584a4fb88b98b8689d5a64e104fcbc6b", null ],
+      [ "ADC_GROUP_MASK_4", "group___r_z_a___a_d_c___a_p_i.html#ggaee17c30275c1c9376cc485a62ea121eba8a271a13324d7b13e732aeef6b5ef0dc", null ],
+      [ "ADC_GROUP_MASK_5", "group___r_z_a___a_d_c___a_p_i.html#ggaee17c30275c1c9376cc485a62ea121eba298a89e90d290117e69acb7569409a8a", null ],
+      [ "ADC_GROUP_MASK_6", "group___r_z_a___a_d_c___a_p_i.html#ggaee17c30275c1c9376cc485a62ea121ebadd19ea2551df6c56813bf9d9dfa3d218", null ],
+      [ "ADC_GROUP_MASK_7", "group___r_z_a___a_d_c___a_p_i.html#ggaee17c30275c1c9376cc485a62ea121eba0b145ee64281e271a0c2b075484b175a", null ],
+      [ "ADC_GROUP_MASK_8", "group___r_z_a___a_d_c___a_p_i.html#ggaee17c30275c1c9376cc485a62ea121ebaad618fc3cf12d1bb5575659bb56ffb84", null ],
+      [ "ADC_GROUP_MASK_ALL", "group___r_z_a___a_d_c___a_p_i.html#ggaee17c30275c1c9376cc485a62ea121ebafcbf5a874521ebcfb98323c2a7990847", null ]
+    ] ],
+    [ "adc_state_t", "group___r_z_a___a_d_c___a_p_i.html#ga2783ab2e29809bf0a50bc66c6fa8d3c6", [
+      [ "ADC_STATE_IDLE", "group___r_z_a___a_d_c___a_p_i.html#gga2783ab2e29809bf0a50bc66c6fa8d3c6a618306d7336575e80aa3d79865a52c2d", null ],
+      [ "ADC_STATE_SCAN_IN_PROGRESS", "group___r_z_a___a_d_c___a_p_i.html#gga2783ab2e29809bf0a50bc66c6fa8d3c6abe1c11b191e48669cc5129aca45800d7", null ],
+      [ "ADC_STATE_CALIBRATION_IN_PROGRESS", "group___r_z_a___a_d_c___a_p_i.html#gga2783ab2e29809bf0a50bc66c6fa8d3c6a4766863227ec2104751a15e3eb148d86", null ]
+    ] ]
+];

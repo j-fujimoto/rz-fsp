@@ -1,0 +1,148 @@
+var group___r_z_v___i3_c___b =
+[
+    [ "s_i3c_b_clock_stalling", "group___r_z_v___i3_c___b.html#struct_r_z_v_1_1s__i3c__b__clock__stalling", [
+      [ "assigned_address_phase_enable", "group___r_z_v___i3_c___b.html#a3de2ad9fdc4f115c0c3eb1ae8d309310", null ],
+      [ "transition_phase_enable", "group___r_z_v___i3_c___b.html#a1e17c7ba051cbbc0ff57d90fea790529", null ],
+      [ "parity_phase_enable", "group___r_z_v___i3_c___b.html#a6d4b6b31e9050c2c8ecf09bc5cde62a9", null ],
+      [ "ack_phase_enable", "group___r_z_v___i3_c___b.html#a4760badf6fcc5695df7c4c8e58f7f9cb", null ],
+      [ "clock_stalling_time", "group___r_z_v___i3_c___b.html#ad201fd4faf0f7853730805bc021cd4e0", null ]
+    ] ],
+    [ "s_i3c_b_bitrate_settings", "group___r_z_v___i3_c___b.html#struct_r_z_v_1_1s__i3c__b__bitrate__settings", [
+      [ "stdbr", "group___r_z_v___i3_c___b.html#a01c93295963a1e8e0c9d360ba64dece8", null ],
+      [ "extbr", "group___r_z_v___i3_c___b.html#a81410f4ed8c831ab3a557a098ace2fd7", null ],
+      [ "clock_stalling", "group___r_z_v___i3_c___b.html#a33cca3dffdec68983a92137890232718", null ]
+    ] ],
+    [ "s_i3c_b_ibi_control", "group___r_z_v___i3_c___b.html#struct_r_z_v_1_1s__i3c__b__ibi__control", [
+      [ "hot_join_acknowledge", "group___r_z_v___i3_c___b.html#afdcaea75728a0d9827cf375837cf3d0b", null ],
+      [ "notify_rejected_hot_join_requests", "group___r_z_v___i3_c___b.html#a0cb306ec1d1775ad5818c34d148c9da3", null ],
+      [ "notify_rejected_mastership_requests", "group___r_z_v___i3_c___b.html#ae8edd51be8989ad10d0bd1e99b89af7b", null ],
+      [ "notify_rejected_interrupt_requests", "group___r_z_v___i3_c___b.html#a477eb34fced5003a4c7b1068d130e121", null ]
+    ] ],
+    [ "s_i3c_b_slave_command_response_info", "group___r_z_v___i3_c___b.html#struct_r_z_v_1_1s__i3c__b__slave__command__response__info", [
+      [ "inband_interrupt_enable", "group___r_z_v___i3_c___b.html#a40401d8933181561a4bf71eee44da212", null ],
+      [ "mastership_request_enable", "group___r_z_v___i3_c___b.html#ae75f1326dcadce231554de226ba938ad", null ],
+      [ "hotjoin_request_enable", "group___r_z_v___i3_c___b.html#a464dd4396b8ae51654c1770b3ae96c46", null ],
+      [ "activity_state", "group___r_z_v___i3_c___b.html#a040aa37194c14bfce80b630d9f89344b", null ],
+      [ "write_length", "group___r_z_v___i3_c___b.html#a0bbd74ffd208cc4e3be995927c1c6100", null ],
+      [ "read_length", "group___r_z_v___i3_c___b.html#a09d8d56dede980ad1504251f8bda08e0", null ],
+      [ "ibi_payload_length", "group___r_z_v___i3_c___b.html#aaf341bdb498a226969cae406b78eb222", null ],
+      [ "write_data_rate", "group___r_z_v___i3_c___b.html#ab7bd8e0ad902118c72a9cea59fc1704c", null ],
+      [ "read_data_rate", "group___r_z_v___i3_c___b.html#a3f9b961cdfed89541bb9d36ddcf9fd1f", null ],
+      [ "clock_data_turnaround", "group___r_z_v___i3_c___b.html#a6a8d4b54fb57b85a5a11c2cd8213fee2", null ],
+      [ "read_turnaround_time_enable", "group___r_z_v___i3_c___b.html#ad1d5f2109c284c38a469f439e31eed6d", null ],
+      [ "read_turnaround_time", "group___r_z_v___i3_c___b.html#a28c855338adccc4e0a9ca48770abb1f3", null ],
+      [ "oscillator_frequency", "group___r_z_v___i3_c___b.html#a32c484a922969c980167943426e1e6ea", null ],
+      [ "oscillator_inaccuracy", "group___r_z_v___i3_c___b.html#a83ac5e7022a05bd981b7fe3cd81ab9c5", null ]
+    ] ],
+    [ "s_i3c_b_read_buffer_descriptor", "group___r_z_v___i3_c___b.html#struct_r_z_v_1_1s__i3c__b__read__buffer__descriptor", [
+      [ "p_buffer", "group___r_z_v___i3_c___b.html#a247b6cc8b5cd8bd49b0c4c62ed59f7b8", null ],
+      [ "count", "group___r_z_v___i3_c___b.html#a86988a65e0d3ece7990c032c159786d6", null ],
+      [ "buffer_size", "group___r_z_v___i3_c___b.html#ab4bab919e0d995ad7249474cd9028105", null ],
+      [ "read_request_issued", "group___r_z_v___i3_c___b.html#a01a9c197843464be050b891415526a64", null ]
+    ] ],
+    [ "s_i3c_b_write_buffer_descriptor", "group___r_z_v___i3_c___b.html#struct_r_z_v_1_1s__i3c__b__write__buffer__descriptor", [
+      [ "p_buffer", "group___r_z_v___i3_c___b.html#a247b6cc8b5cd8bd49b0c4c62ed59f7b8", null ],
+      [ "count", "group___r_z_v___i3_c___b.html#a86988a65e0d3ece7990c032c159786d6", null ],
+      [ "buffer_size", "group___r_z_v___i3_c___b.html#ab4bab919e0d995ad7249474cd9028105", null ]
+    ] ],
+    [ "st_i3c_b_instance_ctrl", "group___r_z_v___i3_c___b.html#struct_r_z_v_1_1st__i3c__b__instance__ctrl", [
+      [ "BSP_ALIGN_VARIABLE", "group___r_z_v___i3_c___b.html#a1f075c470cab2b51d3211addaf6d6897", null ],
+      [ "open", "group___r_z_v___i3_c___b.html#a46c9af2fb0c51a3bc152b006beefc554", null ],
+      [ "p_reg", "group___r_z_v___i3_c___b.html#a3587488ea364e7ed05af1d303d842f17", null ],
+      [ "internal_state", "group___r_z_v___i3_c___b.html#a4be6387f3c0404146d9e037246f1562a", null ],
+      [ "current_command_code", "group___r_z_v___i3_c___b.html#a0b31495769c47c0f64d5f8c8178c4e07", null ],
+      [ "device_index", "group___r_z_v___i3_c___b.html#a716fa5fc945eda6141076d13a5fde904", null ],
+      [ "device_bitrate_mode", "group___r_z_v___i3_c___b.html#a9ea97c467b56ee238d1e75b81a871ec6", null ],
+      [ "next_word", "group___r_z_v___i3_c___b.html#a7c793194fdfa49f3f93b424f1d5c097c", null ],
+      [ "ibi_next_word", "group___r_z_v___i3_c___b.html#ad1ce26e3883d712ffd21bd3667716554", null ],
+      [ "write_buffer_descriptor", "group___r_z_v___i3_c___b.html#ab95692f850331425f20d046bca365f47", null ],
+      [ "read_buffer_descriptor", "group___r_z_v___i3_c___b.html#a522dc917815dfbab262e5916af2afcfe", null ],
+      [ "ibi_buffer_descriptor", "group___r_z_v___i3_c___b.html#ade91a081dc93f30c7cd6d40cafae88f1", null ],
+      [ "read_transfer_count_final", "group___r_z_v___i3_c___b.html#a4a2b4367c08afc0ea34dd8afd62eff2b", null ],
+      [ "ibi_transfer_count_final", "group___r_z_v___i3_c___b.html#a465da0947cd92b703b40a0c6b4832542", null ],
+      [ "p_cfg", "group___r_z_v___i3_c___b.html#a57d50c4416ece101a05bcb25dc4ad193", null ]
+    ] ],
+    [ "s_i3c_b_extended_cfg", "group___r_z_v___i3_c___b.html#struct_r_z_v_1_1s__i3c__b__extended__cfg", [
+      [ "bitrate_settings", "group___r_z_v___i3_c___b.html#a3193c7390e7a66f7e3514f9aa5d3f6df", null ],
+      [ "ibi_control", "group___r_z_v___i3_c___b.html#afb68149074f511ea4bbc7cc214d3b151", null ],
+      [ "bus_free_detection_time", "group___r_z_v___i3_c___b.html#a94572403e6580dbc71d12244bb9818e6", null ],
+      [ "bus_available_detection_time", "group___r_z_v___i3_c___b.html#ab8102213eabef9ec4565cba713dd93d7", null ],
+      [ "bus_idle_detection_time", "group___r_z_v___i3_c___b.html#a11babdb28efe03a71152210f9d20c836", null ],
+      [ "timeout_detection_enable", "group___r_z_v___i3_c___b.html#a4f4dccabc97f5b8012a9a56295e2f061", null ],
+      [ "slave_command_response_info", "group___r_z_v___i3_c___b.html#a9241d87b9ac5d92405617cb84390ced9", null ],
+      [ "resp_irq", "group___r_z_v___i3_c___b.html#aa1df152ce547eb6a177f7e409b6b1d08", null ],
+      [ "rx_irq", "group___r_z_v___i3_c___b.html#a0c778fb3044f0f4ad5a1fc246ca2464e", null ],
+      [ "tx_irq", "group___r_z_v___i3_c___b.html#a688b8ed4da96506b4f142d400b8edc0d", null ],
+      [ "rcv_irq", "group___r_z_v___i3_c___b.html#ae1045f9fc4d3ab978c9487380db0418e", null ],
+      [ "ibi_irq", "group___r_z_v___i3_c___b.html#ac705d8af9998ad314bd8d50b9d7285b0", null ],
+      [ "st_irq", "group___r_z_v___i3_c___b.html#aeeac7a4211f001055ea195b371f91fdc", null ],
+      [ "sp_irq", "group___r_z_v___i3_c___b.html#aeec734596f245d2d75d6df26e8d9ca4c", null ],
+      [ "tmo_irq", "group___r_z_v___i3_c___b.html#a72b36623ead3fe15d843c9f9ebc1a0a6", null ],
+      [ "ierr_irq", "group___r_z_v___i3_c___b.html#ad1de7ddce7fa769c98bff7c1f74df031", null ],
+      [ "terr_irq", "group___r_z_v___i3_c___b.html#a3db9ff8c67dc6d697ca7974b1fdbb9f8", null ],
+      [ "abort_irq", "group___r_z_v___i3_c___b.html#ab191c0d886336a4422851b434f2e7f61", null ],
+      [ "wu_irq", "group___r_z_v___i3_c___b.html#a6bbb2128ff5866fd42b1eeec3e17d88c", null ],
+      [ "ipl", "group___r_z_v___i3_c___b.html#ad0ceb75a6f1ed97fa3e8829eb645d655", null ],
+      [ "eei_ipl", "group___r_z_v___i3_c___b.html#a82045d48ad198cbb387110abedea3236", null ]
+    ] ],
+    [ "I3C_B_EVENT_STATUS_SUCCESS", "group___r_z_v___i3_c___b.html#ga66e705cb2af31c57eacd0492b2417145", null ],
+    [ "I3C_B_EVENT_STATUS_PARITY", "group___r_z_v___i3_c___b.html#ga20332b13e43cafe1a0ee0dbc195d7467", null ],
+    [ "I3C_B_EVENT_STATUS_FRAME", "group___r_z_v___i3_c___b.html#ga4c155a91650485e935a7d95b65bf6ea1", null ],
+    [ "I3C_B_EVENT_STATUS_ADDRESS_HEADER", "group___r_z_v___i3_c___b.html#gab4bffde187fcf342dfc6cabc1a7353d8", null ],
+    [ "I3C_B_EVENT_STATUS_NACK", "group___r_z_v___i3_c___b.html#gaac076b32d443c844645e0d1e9a6d184e", null ],
+    [ "I3C_B_EVENT_STATUS_OVERFLOW", "group___r_z_v___i3_c___b.html#ga103bea85dbeeb58f40d85e3b1bd00fae", null ],
+    [ "I3C_B_EVENT_STATUS_ABORTED_TO_MASTER", "group___r_z_v___i3_c___b.html#gae15f0c28a3098b35b3eaf0456f1c4a5b", null ],
+    [ "I3C_B_EVENT_STATUS_ABORTED", "group___r_z_v___i3_c___b.html#ga7aed8b3fb4cfd7004b8f785a8884f4ff", null ],
+    [ "I3C_B_EVENT_STATUS_IBI_NACK_DISABLED", "group___r_z_v___i3_c___b.html#gaacf3c8a9a14870a0e66c8815bed1c2e5", null ],
+    [ "i3c_b_clock_stalling_t", "group___r_z_v___i3_c___b.html#ga5687f99bf7e1adbf67b5c51e2a326318", null ],
+    [ "i3c_b_bitrate_settings_t", "group___r_z_v___i3_c___b.html#ga2e6407e545053b307b3aeb429ef6e4df", null ],
+    [ "i3c_b_ibi_control_t", "group___r_z_v___i3_c___b.html#ga6d715323031c24816d6814e73c00b134", null ],
+    [ "i3c_b_slave_command_response_info_t", "group___r_z_v___i3_c___b.html#gaa8aefe897e272d3b3b0a24db4b435b73", null ],
+    [ "i3c_b_read_buffer_descriptor_t", "group___r_z_v___i3_c___b.html#ga542b14f327f8b22fd3b60a3961d26e52", null ],
+    [ "i3c_b_write_buffer_descriptor_t", "group___r_z_v___i3_c___b.html#ga33b62e5a748bffe17b5ba2165bb6719b", null ],
+    [ "i3c_b_instance_ctrl_t", "group___r_z_v___i3_c___b.html#gaf185507f47479a2c71dd9f430a15ac73", null ],
+    [ "i3c_b_extended_cfg_t", "group___r_z_v___i3_c___b.html#gaf83c06889b94b04ad16d5600b01c55c5", null ],
+    [ "i3c_b_bitrate_mode_t", "group___r_z_v___i3_c___b.html#gac8fb0ec859c44282b8323eb13de6ad3c", [
+      [ "I3C_B_BITRATE_MODE_I2C_STDBR", "group___r_z_v___i3_c___b.html#ggac8fb0ec859c44282b8323eb13de6ad3caf4dc5a9d144776169e8a4d7f21a93b84", null ],
+      [ "I3C_B_BITRATE_MODE_I2C_EXTBR", "group___r_z_v___i3_c___b.html#ggac8fb0ec859c44282b8323eb13de6ad3ca1ea841b113c1fcc83d7caae57f91c266", null ],
+      [ "I3C_B_BITRATE_MODE_I3C_SDR0_STDBR", "group___r_z_v___i3_c___b.html#ggac8fb0ec859c44282b8323eb13de6ad3ca30e9d9ea007ba5c667387f1198721ff9", null ],
+      [ "I3C_B_BITRATE_MODE_I3C_SDR1_EXTBR", "group___r_z_v___i3_c___b.html#ggac8fb0ec859c44282b8323eb13de6ad3ca1a146a0c77e2b1aa523548e8464efbb4", null ],
+      [ "I3C_B_BITRATE_MODE_I3C_SDR2_STDBR_X2", "group___r_z_v___i3_c___b.html#ggac8fb0ec859c44282b8323eb13de6ad3ca2fc162047690642b1e930dcef91cfb81", null ],
+      [ "I3C_B_BITRATE_MODE_I3C_SDR3_EXTBR_X2", "group___r_z_v___i3_c___b.html#ggac8fb0ec859c44282b8323eb13de6ad3caa5bb8590bfb9b8865b9cf64576ceadde", null ],
+      [ "I3C_B_BITRATE_MODE_I3C_SDR4_EXTBR_X4", "group___r_z_v___i3_c___b.html#ggac8fb0ec859c44282b8323eb13de6ad3ca6643480973dab04e2eba54bc434222d5", null ]
+    ] ],
+    [ "i3c_b_activity_state_t", "group___r_z_v___i3_c___b.html#gab3ffca78d7da057f277bfd8ce2ef2e1a", [
+      [ "I3C_B_ACTIVITY_STATE_ENTAS0", "group___r_z_v___i3_c___b.html#ggab3ffca78d7da057f277bfd8ce2ef2e1aa9641d3bd84b3734620800d3242a048e1", null ],
+      [ "I3C_B_ACTIVITY_STATE_ENTAS1", "group___r_z_v___i3_c___b.html#ggab3ffca78d7da057f277bfd8ce2ef2e1aa313dcdfbf6c9106d85551b78fdc89c69", null ],
+      [ "I3C_B_ACTIVITY_STATE_ENTAS2", "group___r_z_v___i3_c___b.html#ggab3ffca78d7da057f277bfd8ce2ef2e1aa99e55224a2b5aff9072df1a13157b83a", null ],
+      [ "I3C_B_ACTIVITY_STATE_ENTAS3", "group___r_z_v___i3_c___b.html#ggab3ffca78d7da057f277bfd8ce2ef2e1aaf6a3aacfe021bf6de8af4de066e3c768", null ]
+    ] ],
+    [ "i3c_b_data_rate_setting_t", "group___r_z_v___i3_c___b.html#gaa100c24dc68792009da85deed2f6387a", [
+      [ "I3C_B_DATA_RATE_SETTING_FSCL_MAX", "group___r_z_v___i3_c___b.html#ggaa100c24dc68792009da85deed2f6387aa5c4464e2154d923a7dbcf46a52486f9f", null ],
+      [ "I3C_B_DATA_RATE_SETTING_8MHZ", "group___r_z_v___i3_c___b.html#ggaa100c24dc68792009da85deed2f6387aa9193b4d9e54c0c7c9f1e046c39795ea6", null ],
+      [ "I3C_B_DATA_RATE_SETTING_6MHZ", "group___r_z_v___i3_c___b.html#ggaa100c24dc68792009da85deed2f6387aa2039c607365d844eb591d5a95ae2f932", null ],
+      [ "I3C_B_DATA_RATE_SETTING_4MHZ", "group___r_z_v___i3_c___b.html#ggaa100c24dc68792009da85deed2f6387aa63e2f583c75a7225371ba173ce4c7c6a", null ],
+      [ "I3C_B_DATA_RATE_SETTING_2MHZ", "group___r_z_v___i3_c___b.html#ggaa100c24dc68792009da85deed2f6387aae74d814458aa0d31cb6503c0f144a3c6", null ]
+    ] ],
+    [ "i3c_b_clock_data_turnaround_t", "group___r_z_v___i3_c___b.html#ga3289540419912324ce02f19ed6a972ca", [
+      [ "I3C_B_CLOCK_DATA_TURNAROUND_8NS", "group___r_z_v___i3_c___b.html#gga3289540419912324ce02f19ed6a972caa5d48558b7227efb68f158286ead5a083", null ],
+      [ "I3C_B_CLOCK_DATA_TURNAROUND_9NS", "group___r_z_v___i3_c___b.html#gga3289540419912324ce02f19ed6a972caae7c84e04abd9a4d740b89bd866b05064", null ],
+      [ "I3C_B_CLOCK_DATA_TURNAROUND_10NS", "group___r_z_v___i3_c___b.html#gga3289540419912324ce02f19ed6a972caa85d3de0c20f041144cd97c7dce45191b", null ],
+      [ "I3C_B_CLOCK_DATA_TURNAROUND_11NS", "group___r_z_v___i3_c___b.html#gga3289540419912324ce02f19ed6a972caab708aab348be27544293dc3cd81f144b", null ],
+      [ "I3C_B_CLOCK_DATA_TURNAROUND_12NS", "group___r_z_v___i3_c___b.html#gga3289540419912324ce02f19ed6a972caa75bf3ed70a8bc727c29bf17241694e7d", null ],
+      [ "I3C_B_CLOCK_DATA_TURNAROUND_EXTENDED", "group___r_z_v___i3_c___b.html#gga3289540419912324ce02f19ed6a972caa5afb800692fec260506825c1766d5a77", null ]
+    ] ],
+    [ "R_I3C_B_Open", "group___r_z_v___i3_c___b.html#gaa9ce3fda0950ce2aaa0cd8cf51fb5f95", null ],
+    [ "R_I3C_B_Enable", "group___r_z_v___i3_c___b.html#gae1dcb91a0152da9a6676ee27d305dceb", null ],
+    [ "R_I3C_B_DeviceCfgSet", "group___r_z_v___i3_c___b.html#ga07b0af405a9ca84c45aab74bd1c696c2", null ],
+    [ "R_I3C_B_MasterDeviceTableSet", "group___r_z_v___i3_c___b.html#ga9517cc752212a1423f0153c4330943b4", null ],
+    [ "R_I3C_B_SlaveStatusSet", "group___r_z_v___i3_c___b.html#ga4178234c4311d227a6fb8844e1e3a49e", null ],
+    [ "R_I3C_B_DeviceSelect", "group___r_z_v___i3_c___b.html#ga2a3f7414a893b9c2b9135523c8f6d950", null ],
+    [ "R_I3C_B_DynamicAddressAssignmentStart", "group___r_z_v___i3_c___b.html#ga014e6425d49e19f05d24fd345a785589", null ],
+    [ "R_I3C_B_CommandSend", "group___r_z_v___i3_c___b.html#ga36ef6e15732ea09c5ad2fb19095cae4e", null ],
+    [ "R_I3C_B_Write", "group___r_z_v___i3_c___b.html#gadf661fd87ee8c33efd8801d59997d4a1", null ],
+    [ "R_I3C_B_Read", "group___r_z_v___i3_c___b.html#ga69047e20f165f6e44fea97f3fec69399", null ],
+    [ "R_I3C_B_IbiWrite", "group___r_z_v___i3_c___b.html#ga0b4af888ebc4c210feea2a149fd4cfc1", null ],
+    [ "R_I3C_B_IbiRead", "group___r_z_v___i3_c___b.html#gad786c546168aabcc04099f73a540af29", null ],
+    [ "R_I3C_B_Close", "group___r_z_v___i3_c___b.html#gadd84cf1baec319b18540a857545ab51b", null ]
+];
