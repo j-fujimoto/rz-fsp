@@ -1,0 +1,37 @@
+---
+WarningsAsErrors: ''
+HeaderFilterRegex: 'sf_.*|r_.*|bsp_.*|hw_.*'
+AnalyzeTemporaryDtors: false
+FormatStyle:     none
+User:            ''
+CheckOptions:
+  - key:             google-readability-braces-around-statements.ShortStatementLines
+    value:           '0'
+  - key:             google-readability-function-size.StatementThreshold
+    value:           '800'
+  - key:             google-readability-function-size.BranchThreshold
+    value:           '50'
+  - key:             google-readability-namespace-comments.ShortNamespaceLines
+    value:           '50'
+  - key:             google-readability-namespace-comments.SpacesBeforeComments
+    value:           '2'
+  - key:             readability-function-size.BranchThreshold
+    value:           '50'
+  - key:             modernize-loop-convert.MaxCopySize
+    value:           '16'
+  - key:             modernize-loop-convert.MinConfidence
+    value:           reasonable
+  - key:             modernize-loop-convert.NamingStyle
+    value:           CamelCase
+  - key:             modernize-pass-by-value.IncludeStyle
+    value:           llvm
+  - key:             modernize-replace-auto-ptr.IncludeStyle
+    value:           llvm
+  - key:             modernize-use-nullptr.NullMacros
+    value:           'NULL'
+  - key:              rea-readability-braces-around-statements.ShortStatementLines
+    value:           '0'
+  - key:             readability-magic-numbers.IgnoredIntegerValues
+    value:           '1; 2; 3; 4; 5; 6; 7; 8; 9; 10; 11; 12; 13; 14; 15; 16; 17; 18; 19; 20; 21; 22; 23; 24; 25; 26; 27; 28; 29; 30; 31;'
+...
+
