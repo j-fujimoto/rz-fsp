@@ -1,7 +1,5 @@
 ## Overview
 
-**This repository is used for early access to the next major release of FSP. Please understand that the next major release is under active development. This means you should expect issues and possible compatibility breaks in between versions. You can get the latest stable FSP release [here](https://github.com/renesas/rz-fsp).**
-
 Flexible Software Package (FSP) for Renesas RZ.
 
 FSP is the next generation Arm&reg; MPU software package from Renesas, that enables HMI devices and IoT connectivity through production ready peripheral drivers, Azure RTOS or FreeRTOS, and portable middleware stacks. FSP includes best-in-class HAL drivers with high performance and low memory footprint. Middleware stacks with Azure RTOS and FreeRTOS integration are included to ease implementation of complex modules like communication and security.
